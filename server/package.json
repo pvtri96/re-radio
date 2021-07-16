@@ -41,7 +41,7 @@
     "apollo-server-express": "2.25.2",
     "bcrypt-nodejs": "0.0.3",
     "class-transformer": "0.4.0",
-    "class-validator": "0.13.0",
+    "class-validator": "0.13.1",
     "dotenv": "10.0.0",
     "get-video-id": "3.2.0",
     "graphql": "15.5.1",
